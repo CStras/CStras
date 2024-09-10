@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colin</h1>
-<h3 align="center">A budding software engineer / front-end developer from Mid-west USA</h3>
+<h3 align="center">A budding software engineer / front-end developer from mid-west USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cstras&label=Profile%20views&color=0e75b6&style=flat" alt="cstras" /> </p>
 

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Colin</h1>
-<h3 align="center">A budding software engineer / front-end developer from mid-west USA</h3>
+<h3 align="center">A budding software engineer / full-stack developer from mid-west USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cstras&label=Profile%20views&color=0e75b6&style=flat" alt="cstras" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cstras" alt="cstras" /></a> </p>
 
-- 🔭 I’m currently working on [my certification's project Spots](https://cstras.github.io/se_project_spots/)
+- 🔭 I’m currently working on [my certification's project "What to wear" - Note: the project currently does not work as I am developing the database as well.](https://cstras.github.io/se_project_react/)
 
-- 🌱 I’m currently learning **JavaScript Logic and Methods!**
+- 🌱 I’m currently learning **Express.js and database creation!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CStras](https://github.com/CStras)
 

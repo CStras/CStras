@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my certification's project "What to wear" - Note: the project currently does not work as I am developing the database as well.](https://cstras.github.io/se_project_react/)
 
-- 🌱 I’m currently learning **Express.js and database creation!**
+- 🌱 I’m currently learning **Front to back end Authentication!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CStras](https://github.com/CStras)
 

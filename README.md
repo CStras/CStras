@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **what book I'm reading!**
 
-- 📫 How to reach me **colinstrassergh@gmail.com**
+- 📫 How to reach me **cstrassergh@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/colin-strasser-5870822a9/](https://www.linkedin.com/in/colin-strasser-5870822a9/)
+- 📄 Know about my experiences at my [https://www.linkedin.com/in/colin-strasser2000/](LinkedIn)!
 
 - ⚡ Fun fact **I love mountain biking!**
 

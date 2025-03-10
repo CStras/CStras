@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cstrassergh@gmail.com**
 
-- 📄 Know about my experiences at my [LinkedIn!](https://www.linkedin.com/in/colin-strasser2000/)!
+- 📄 Know about my experiences at my [LinkedIn!](https://www.linkedin.com/in/colin-strasser2000/)
 
 - ⚡ Fun fact **I love mountain biking!**
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cstras" alt="cstras" /></a> </p>
 
-- 🔭 I’m currently working on [my certification's project "What to wear" - Note: the project currently does not work as I am developing the database as well.](https://cstras.github.io/se_project_react/)
+- 🔭 I’m currently working on [my final project! It is a project that uses the newsAPI to surf news articles based on submitted key words.](https://cstras.github.io/se_project_news-explorer/)
 
 - 🌱 I’m currently learning **Front to back end Authentication!**
 

@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cstras" alt="cstras" /></a> </p>
 
-- 🔭 I’m currently working on [my final project! It is a project that uses the newsAPI to surf news articles based on submitted key words.](https://cstras.github.io/se_project_news-explorer/)
+- 🔭 I’m currently working on my [Blog!](https://github.com/CStras/SomethingBlog) I am currently refactoring the basic project into a full-stack React app!
 
-- 🌱 I’m currently learning **Front to back end Authentication!**
+- ⏰ My previous project : [My final project! It is a project that uses the newsAPI to surf news articles based on submitted key words.](https://cstras.github.io/se_project_news-explorer/)
+
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CStras](https://github.com/CStras)
 

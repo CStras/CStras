@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colin</h1>
-<h3 align="center">A budding software engineer / full-stack developer from mid-west USA</h3>
+<h3 align="center">A software engineer / full-stack developer - St. Louis, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cstras&label=Profile%20views&color=0e75b6&style=flat" alt="cstras" /> </p>
 
@@ -9,7 +9,7 @@
 
 - ⏰ My previous project : [My final project! It is a project that uses the newsAPI to surf news articles based on submitted key words.](https://cstras.github.io/se_project_news-explorer/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CStras](https://github.com/CStras)
 
